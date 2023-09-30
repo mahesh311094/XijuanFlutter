@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393527050955",
+    "project_id": "xijuan-da23e",
+    "storage_bucket": "xijuan-da23e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393527050955:android:d0943f6a4db756313ed14e",
+        "android_client_info": {
+          "package_name": "com.xijuan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393527050955-n5s9ip2qk8l5rn7bpunsu4dpuaaiksgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYP9TNLLvQ13lydPWY2qsbqZl0AsDksW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393527050955-n5s9ip2qk8l5rn7bpunsu4dpuaaiksgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
